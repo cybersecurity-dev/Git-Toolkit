@@ -20,10 +20,17 @@
 </p>
 
 ## 📖 Contents
-- [My Other Awesome Lists](#my-other-awesome-lists)
+- [GitHub CLI Tools](#github-cli-tools)
+- [GitLab CLI Tools](#gitlab-cli-tools)
+- [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
-- 
+
+## [GitHub](https://wikipedia.org/wiki/GitHub) CLI Tools
+-
+
+## [GitLab](https://wikipedia.org/wiki/GitLab) CLI Tools
+- [GitLab CLI tool](https://gitlab.com/gitlab-org/cli)
 
 ##
 
