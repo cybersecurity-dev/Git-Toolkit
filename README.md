@@ -1,10 +1,14 @@
-<p align="center">
-    <a href="https://wikipedia.org/wiki/Git">
-      <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Git_Logo.svg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Git">
+          <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Git_Logo.svg" />
+        </a>
+    </p>
 
 # [Git](https://git-scm.com/) Toolkit
+
+</div>
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
