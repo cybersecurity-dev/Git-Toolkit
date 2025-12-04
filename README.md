@@ -36,6 +36,25 @@
 ## [GitLab](https://wikipedia.org/wiki/GitLab) CLI Tools
 - [GitLab CLI tool](https://gitlab.com/gitlab-org/cli)
 
+
+## Useful **`Git`** Commands
+
+* Clone a specific Git branch
+    ```shell
+    git clone -b <branch> <remote_repo>
+    ```
+
+    ```bash
+    git clone -b mybranch2 git@github.com:user/mygitproject.git
+    ```
+* Create New Branch
+    ```bash
+    git checkout -b <new-branch-name>
+    ```
+* Change Branch
+    ```shell
+    git checkout <branch name>
+    ```
 ##
 
 ### My Awesome Lists
