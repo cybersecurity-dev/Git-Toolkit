@@ -111,6 +111,28 @@ Git Toolkit
     └── git submodule
 ```
 
+### Configuration Commands
+
+| Command | Description |
+|----------|-------------|
+| `git config --global user.name "Name"` | Configure username |
+| `git config --global user.email "email"` | Configure email |
+| `git config --list` | List settings |
+| `git config --global core.editor vim` | Set editor |
+| `git config --global alias.st status` | Create alias |
+
+### Repository Commands
+
+| Command | Description |
+|----------|-------------|
+| `git init` | Initialize repository |
+| `git clone <url>` | Clone repository |
+| `git clone --depth 1 <url>` | Shallow clone |
+| `git archive` | Create repository archive |
+| `git remote -v` | Show remotes |
+| `git remote add origin <url>` | Add remote |
+| `git remote remove origin` | Remove remote |
+| `git remote rename old new` | Rename remote |
 
 
 
